@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/rizankhan_837" target="blank"><img src="https://img.shields.io/twitter/follow/rizankhan_837?logo=twitter&style=for-the-badge" alt="rizankhan_837" /></a> </p>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
 - 🌱 I’m currently learning **Blockchain, Javascript and React**
 
 - 👨‍💻 All of my projects are available at [https://rizankhan.me/](https://rizankhan.me/)
