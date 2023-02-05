@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Blockchain, Javascript and React**
 
-- 👨‍💻 All of my projects are available at [https://rizankhan.me/](https://rizankhan.me/)
+- 👨‍💻 All of my projects are available at [**https://rizankhan.me/**](https://rizankhan.me/)
 
 - 💬 Ask me about **C#, Android Development and Solidity**
 
 - 📫 How to reach me **rizankhan837@gmail.com**
 
-- 📄 Know about my experiences [Here's My Resume](bit.ly/rizan_resume)
+- 📄 Know about my experiences [**Here's My Resume**](bit.ly/rizan_resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
