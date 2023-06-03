@@ -49,7 +49,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rizankhan837&theme=github	)](https://github.com/rizankhan837/github-readme-activity-graph)
+[![Rizwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rizankhan837)](https://github.com/rizankhan837/github-readme-activity-graph)
 
  
 </details>
