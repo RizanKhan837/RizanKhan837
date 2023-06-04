@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Blockchain, Javascript and React**
 
-- 👨‍💻 All of my projects are available at [**https://rizankhan.me/**](https://rizankhan.me/)
+- 👨‍💻 All of my projects are available at [**https://rizankhan.me/**](https://rizankhan.tk/)
 
 - 💬 Ask me about **C#, Android Development and Solidity**
 
