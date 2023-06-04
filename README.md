@@ -10,7 +10,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-- 🌱 I’m currently learning **Blockchain, Javascript and React**
+- 🌱 I’m currently learning **Blockchain, Javascript and Python**
 
 - 👨‍💻 All of my projects are available at [**https://rizankhan.me/**](https://rizankhan.tk/)
 
