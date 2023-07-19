@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rizankhan837@gmail.com**
 
-- 📄 Know about my experiences [**Here's My Resume**](bit.ly/rizan_resume)
+- 📄 Know about my experiences [**Here's My Resume**]([bit.ly/rizan_resume](https://onedrive.live.com/download?resid=7DFEF1C255E7BBD7%21227165&authkey=!AAx0tNSZih9ehgk&em=2))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
