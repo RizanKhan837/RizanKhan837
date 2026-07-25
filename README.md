@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Blockchain, Javascript and Python**
 
-- 👨‍💻 All of my projects are available at [**https://rizankhan.me/**](https://rizankhan.me/)
+- 👨‍💻 All of my projects are available at [**https://rizankhan.me/**](https://rizankhan.netlify.app/)
 
 - 💬 Ask me about **C#, Android Development and Solidity**
 
