@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizwan Akram</h1>
-<h3 align="center">MERN Stack Developer @Nixaam LLC ▪️ Blockchain Developer ▪️ Cyber Security Enthusiast</h3>
+<h3 align="center">Lead Full Stack Developer @Nixaam LLC ▪️ Blockchain Developer ▪️ Cyber Security Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizankhan837&label=Profile%20views&color=0e75b6&style=flat" alt="rizankhan837" /> </p>
 
